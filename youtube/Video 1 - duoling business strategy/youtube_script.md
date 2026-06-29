@@ -12,16 +12,15 @@
 ### [Scene 1]
 - **Visual Directions**: A-roll: Creator is on camera, holding a crisp ₹500 note in front of the lens. The background is dimly lit with a green tint. Camera zooms in slightly as the creator speaks.
 - **Dialogue**:
-  > "Imagine karo dosto: Tum sadak pe chal rahe ho, aur achanak tumhe gira hua ₹500 ka brand new note mil jata hai. Tumhara din ban jata hai! Tum wahi paise le kar dosto ke sath party karte ho, momos khate ho, cold drink peete ho. Tumhe lagta hai life is absolutely awesome."
+  > "Dosto, ye ₹500 ka note hai. Let's imagine: Agar ye tumhe sadak ke kinare gira hua mil jaye... toh tum kya karoge? Ek Zomato order, ya kisi normal restaurant mein ek starter, aur ye ₹500 ka note shaam tak gayab! Agle do ghante mein tum shayad bhool bhi jaoge ki tumhe aisa koi note mila tha."
   > *(points at the note)*
-  > "Ab story ko thoda change karte hain. Agle din, tumhare pocket se wahi ₹500 ka note achanak gir jata hai aur kho jata hai. Ab jo gussa, regret aur dukh tumhe hoga na... wo pehle din mili ₹500 ki khushi se do guna zyada hoga."
+  > "Lekin ab socho ki yahi ₹500 ka note tumhari pocket mein tha, aur achanak tumse gir kar kho gaya. Ab jo dukh aur regret hoga na... wo us khushi se double time tak rahega jo tumhe note milne par hui thi. Isko bolte hain **Psychology of Loss**."
 
 ### [Scene 2]
 - **Visual Directions**: Creator folds the note, pockets it, and leans in close to the camera. Cyberpunk elements or graphical overlays flash on the screen: a balance showing "Dukh of Loss" twice as heavy as "Khushi of Gain."
 - **Dialogue**:
-  > "Psychology mein is chemical checkmate ko bolte hain **Loss Aversion**. Insaan ka dimaag kisi cheez ko *khone* ke darr ko usse dugna zyada process karta hai jitna kisi cheez ko *paane* ki khushi ko."
-  > *(smirks, conspiratorial whisper)*
-  > "Aur isi psychological trick ka use karke... ek pyare se green cartoon owl ne **$4 Billion** ki industry khadi kar di. Yes, I am talking about Duolingo."
+  > "Yes, Psychology of Loss—ya product metrics mein isse bolte hain **Loss Aversion**. Aur isi ek simple strategy par chal kar ek **$4 Billion** se zyada ki company khadi ho gayi. Ek multi-billion dollar empire jo sirf isi ek simple human behavior par kaam karta hai—Duolingo."
+
 
 ### [Scene 3]
 - **Visual Directions**: Fast-paced B-roll montage showing famous Duolingo kidnapping memes (Duo looking menacingly at the camera, Duo with glowing red eyes), screenshots of frantic Reddit posts ("I cried after losing my 600-day streak!"), and charts showing Duolingo's stock soaring. Bold text overlays: **"VALUATION: $4 BILLION+"** and **"D30 RETENTION: 35%"**.
