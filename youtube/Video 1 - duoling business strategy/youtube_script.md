@@ -36,8 +36,10 @@
 - **Visual Directions**: A-roll: Creator stands up and walks to a whiteboard (or digital overlay). Write **"LOSS AVERSION"** in big, bright letters and underline it twice.
 - **Dialogue**:
   > "Pehle samjho psychology. Kyunki bina psychology samjhe code likhna... bina map ke gaadi chalane jaisa hai. Product world mein isko bolte hain **Loss Aversion**."
-  > "Behavioral economics ka simple rule hai: Humein kisi nayi cheez ko paane ki khushi jitni hoti hai... usse double dukh kisi purani cheez ko khone par hota hai. ₹100 milne se jitni khushi hoti hai, usse double dukh ₹100 gir jaane par hota hai."
+  > "Imagine karo dosto: Tum sadak pe chal rahe ho, aur achanak tumhe gira hua ₹500 ka brand new note mil jata hai. Tumhara din ban jata hai! Tum wahi paise le kar dosto ke sath party karte ho, momos khate ho. Tumhe lagta hai life is awesome."
+  > "Ab story ko thoda change karte hain. Agle din, tumhare pocket se wahi ₹500 ka note achanak gir jata hai aur kho jata hai. Ab jo gussa, regret aur dukh tumhe hoga na... wo pehle din mili ₹500 ki khushi se do guna zyada hoga! Psychological terms mein isiko bolte hain Loss Aversion."
   > "Jab user 365 days ki streak bana leta hai, toh uske dimaag mein woh streak ek personalized trophy ban jaati hai. Use khone ka darr hi user ko har roz app pe kheench lata hai. Duolingo ne padhai ko game nahi banaya... unhone darr ko gamify kiya hai!"
+
 
 ### [Scene 5]
 - **Visual Directions**: Animated technical diagram shows a globe spinning. Highlight two users hitting a central server database at the same instant: one user in Mumbai (GMT+5:30) and another in Seattle (GMT-8). Red marks highlight where midnight happens at different hours.
