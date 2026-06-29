@@ -1,11 +1,25 @@
-# Duolingo Video Production Prompts
+# Duolingo Video Production Assets (Video 1)
 
-Use the following prompts in a new Gemini session to perform the deep research and generate the viral script for your first video: **"How Duolingo Hooks Millions: Building Their Gamified Streak System"**.
+This folder contains all the assets, research prompts, thumbnail details, and scripts for your first YouTube video.
 
 ---
 
-## Step 1: Deep Research Prompt
-*Copy and paste this prompt into Gemini to gather all the technical, psychological, and business data needed for the video:*
+## 1. Video Meta Details
+- **Title**: How Duolingo Hooks Millions: Building Their Gamified Streak System
+- **Niche Focus**: Business Psychology + App Backend Architecture (Timezones & Local Cache)
+- **Target Release Date**: July 5, 2026
+
+---
+
+## 2. Thumbnail Concept (Nano Banana Prompt)
+*Use this prompt to generate your YouTube thumbnail:*
+
+> A 16:9 YouTube thumbnail. On the left side, a close-up photo of an expressive, shocked Indian creator pointing directly at the viewer with eyes wide open. On the right side, a giant, slightly glowing, mischievous 3D green cartoon owl holding a smartphone showing a "365-Day Streak Fire Emoji". The background is a dark, sleek hacker-style command center filled with glowing lines of code and matrix screens. Neon green and deep purple lighting. Bold, 3D high-readability text at the top reads: "DUOLINGO SECRET CRACKED!" in vibrant yellow with thick black borders. 4K resolution, cinematic contrast.
+
+---
+
+## 3. Step 1: Deep Research Prompt
+*Copy and paste this prompt into Gemini to gather all the technical and psychological metrics:*
 
 ```markdown
 Act as an Elite Product Strategist and Systems Architect. I am creating a highly technical, business-focused YouTube tutorial in "Hinglish" where I will reverse-engineer Duolingo's "Daily Streak" system. 
@@ -36,8 +50,8 @@ Perform a deep research analysis on the Duolingo Streak Engine and provide detai
 
 ---
 
-## Step 2: Viral Script Writing Prompt
-*After running the research phase, paste this prompt to generate a high-retention, 8-10 minute script:*
+## 4. Step 2: Viral Script Writing Prompt
+*Paste this prompt to generate your 8-10 minute Hinglish script:*
 
 ```markdown
 Act as a Viral YouTube Scriptwriter specializing in tech-business storytelling. I want you to write a complete, line-by-line script in "Hinglish" (conversational Hindi + English technical terms) for an 8 to 10-minute video. 
