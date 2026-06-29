@@ -1,0 +1,455 @@
+Here's your complete Hinglish YouTube script. I've written it to sound like a real creator talking to their audience — fast, funny, and technically credible.
+
+***
+
+# 🎬 "How Duolingo Hooks Millions: Building Their Gamified Streak System"
+### Complete Hinglish Script | ~8–10 Minutes
+
+***
+
+## SEGMENT 1: THE HOOK (0:00 – 1:30)
+
+***
+
+**[Scene 1]**
+**[Visual Directions]** A-roll: Creator on camera, dimly lit, leaning into the mic conspiratorially, like sharing a government secret. Add a dramatic zoom-in effect. Background: dark room with a single green light (Duolingo green).
+
+**[Dialogue]**
+
+> "Dosto... aaj main tumhe kuch batane wala hoon jo Duolingo nahi chahta ki tum jaano."
+
+*[leans back, smirks]*
+
+> "Wo cute sa green owl? Innocent lagta hai na? Bilkul nahi. Wo ek psychological weapon hai. Ek multi-billion dollar retention machine ka mascot. Aur aaj hum uski poori game tod denge."
+
+***
+
+**[Scene 2]**
+**[Visual Directions]** B-roll: Duolingo app opening on phone. Zoom into the streak counter. Overlay text: "400 DAY STREAK 🔥". Dramatic horror music sting. Then cut to a meme — Duo the owl with red eyes and text: *"Miss one lesson. I dare you."*
+
+**[Dialogue]**
+
+> "Tune kabhi socha hai — kyun log apni 400 din ki streak protect karne ke liye job meeting miss kar dete hain? Meeting! APNI JOB KI MEETING! Duolingo ke saath? Bhai, koi bhi language itni jaldi nahi seekhni thi."
+
+*[shakes head in disbelief]*
+
+> "Ye sirf app nahi hai. Ye ek carefully engineered dopamine loop hai. Aur is loop ka naam hai — The Streak System."
+
+***
+
+**[Scene 3]**
+**[Visual Directions]** Screen capture: Quick montage of Reddit posts — people panicking about losing streaks. Overlay: "r/duolingo" screenshots with captions like "I cried", "Streak gone after 600 days". Sad violin music, then cut back to creator.
+
+**[Dialogue]**
+
+> "Reddit pe log rone wali posts karte hain. SIX HUNDRED DIN. Chhe sau din! Ye wahi log hain jo apna Netflix password yaad nahi rakhte. But Duolingo streak? Unhe haar ek din yaad hai."
+
+*[points at camera]*
+
+> "Aur aaj hum exactly wahi system build karenge. Flutter mein. Dark mode mein. Fire animations ke saath. Poora production-ready code. Aur main tumhe explain karta hoon ki ye chiz itni powerful kyun hai — psychologically aur technically dono."
+
+***
+
+**[Scene 4]**
+**[Visual Directions]** Screen capture: Final demo of the streak app running on Android emulator. Show dark UI, streak counter at 7, fire animation glowing, "Complete Task" button. Fast cuts with upbeat music. Text overlay: "WE ARE BUILDING THIS TODAY."
+
+**[Dialogue]**
+
+> "Ye dekho. Clean dark UI. Real-time fire animation. Streak freeze logic. Timezone-aware backend. Ye wahi cheez hai jo Duolingo ka ek junior engineer shayad apni first sprint mein build karta hai — aur aaj tum ye khud build karoge. Chalo shuru karte hain."
+
+***
+
+## SEGMENT 2: THE SYSTEM DEMYSTIFICATION (1:30 – 3:30)
+
+***
+
+**[Scene 5]**
+**[Visual Directions]** A-roll: Creator stands up, walks to a whiteboard (physical or digital). Marker in hand. Write: "LOSS AVERSION" in big letters. Underline it twice.
+
+**[Dialogue]**
+
+> "Pehle psychology. Kyunki bina psychology samjhe, code likhna ek blueprint ke bina ghar banana hai."
+
+> "Ek concept hai — Loss Aversion. Daniel Kahneman ne prove kiya tha ki insaan ka dimaag kuch *khone* ke darr ko kuch *paane* ki khushi se DONO BAAR zyada feel karta hai. Do baar! Matlab ₹100 kho jaana ₹200 milne se bura lagta hai."
+
+***
+
+**[Scene 6]**
+**[Visual Directions]** B-roll: Animation of a streak counter going from 365 to 0. Slow motion. Red flash effect. Sad music. Then cut to creator's reaction face — genuine horror.
+
+**[Dialogue]**
+
+> "Ab socho — tera 365 din ka streak ek raat mein zero ho jaaye. Ek saal. Poora ek saal. Bas isliye ki tu bhool gaya. Tera dimaag usse ek actual loss ki tarah process karta hai. Paisa gaya ho, relationship gaya ho — wahi wali feeling."
+
+*[snaps fingers]*
+
+> "Aur exactly yahi Duolingo exploit karta hai. Genius hai. Evil genius. But genius."
+
+***
+
+**[Scene 7]**
+**[Visual Directions]** Whiteboard animation or motion graphics: Show 3 boxes — User's Phone (Local Cache), App Server (Database), UTC Clock (Timezone Engine). Arrows between them with labels.
+
+**[Dialogue]**
+
+> "Ab technical challenge. Yaar, streak track karna simple lagta hai na? User ne lesson kiya — streak plus one. User ne nahi kiya — reset. Done."
+
+*[pauses dramatically]*
+
+> "Nahi. Bilkul nahi. Itna simple hota toh main video kyun banata?"
+
+> "Teen cheezein hain jo is system ko complicated banati hain. Pehla — Timezones. Ek user Mumbai mein hai, dusra New York mein. 'Aaj' kab shuru hota hai? UTC se calculate karna padta hai — Universal Time Coordinated. Ye ek global clock hai jiske against sab kuch sync hota hai."
+
+***
+
+**[Scene 8]**
+**[Visual Directions]** Whiteboard: Draw a simple clock diagram. Label "UTC+5:30" (India) and "UTC-5" (New York). Show how midnight differs.
+
+**[Dialogue]**
+
+> "Dusra challenge — Local Caching. Network nahi hai? App crash ho gayi? User ka streak data locally save rehna chahiye aur baad mein server se sync hona chahiye. Warna imagine karo — tu jungle mein tha, lesson kiya offline, wapas aaya — streak gone. Tu app uninstall kar deta."
+
+> "Teesra — Background Notifications. Raat ke 9 baje reminder aata hai — 'Duo misses you 🦉' — ye random nahi hai. Ye ek calculated push hai jo tab aata hai jab tere paas abhi bhi streak save karne ka time hai. Engineering, dost. Pure engineering."
+
+***
+
+**[Scene 9]**
+**[Visual Directions]** B-roll: Phone notification popping up from Duolingo. Zoom in. Then creator back on camera with a knowing smirk.
+
+**[Dialogue]**
+
+> "Ye notification system, timezone logic, aur local cache sync — inhe milao aur tumhare paas ek aisa system hai jo user ko LITERALLY apni screen ke paas wapas kheench laata hai. Har. Din. Ab ye sab hum Flutter mein implement karte hain."
+
+***
+
+## SEGMENT 3: THE CODE & ARCHITECTURE WALKTHROUGH (3:30 – 7:30)
+
+***
+
+**[Scene 10]**
+**[Visual Directions]** Screen capture: VS Code opens. Project folder visible: `streak_engine/`. Zoom into folder structure. Music: lo-fi beats, chill but focused energy.
+
+**[Dialogue]**
+
+> "Theek hai dosto, ab code ki duniya mein. Darrana mat — main tumhe line by line torture nahi karunga. Hum architecture blocks mein sochenge. Ye wahi approach hai jo senior engineers use karte hain. System design pehle, code baad mein."
+
+> "Hamare paas char main blocks hain. Ek — Local Cache Layer. Do — Database Schema. Teen — Timezone Offset Engine. Char — Streak Validation Loop. Inhe samjho, aur poori app samajh aayegi."
+
+***
+
+**[Scene 11 — Block 1: Local Cache Layer]**
+**[Visual Directions]** Screen capture: Open `local_cache_service.dart`. Highlight the `SharedPreferences` or `Hive` database import. Creator's face in corner (picture-in-picture). Callout boxes pointing to key lines.
+
+**[Dialogue]**
+
+> "Block ek — Local Cache. Hum `Hive` use kar rahe hain — ye Flutter ka ek lightning-fast local database hai. Ismein hum store karte hain: current streak count, last activity date, aur ek boolean — streak freeze active hai ya nahi."
+
+> "Kyu local save? Kyunki network unreliable hai. Agar server se pehle local check karo, app instant feel karti hai. Aur user ko lag ta hai — 'wah, ye app kitni fast hai.' Usability ka sabse bada secret — perceived speed."
+
+***
+
+**[Scene 12 — Block 2: Database Schema]**
+**[Visual Directions]** Screen capture: Show `streak_model.dart` or a Firestore/SQLite schema view. Highlight fields: `userId`, `currentStreak`, `lastActivityDateUTC`, `streakFreezeCount`, `longestStreak`.
+
+**[Dialogue]**
+
+> "Block do — Database Schema. Dekho ye fields. `lastActivityDateUTC` — note karo, UTC. Local time nahi. UTC. Ye ek critical decision hai. Agar tu local time save karta hai toh user ka timezone change hone par — flight liya, travel kiya — tera poora logic toot jaata hai."
+
+> "`streakFreezeCount` field dekho. Ye wahi field hai jo Duolingo ko ₹99, ₹199 wali in-app purchase se paisa dilata hai. Ek field. Ek integer. Aur usse ek revenue stream milti hai. Bhai, *paisa hi paisa* — ek field mein."
+
+*[chef's kiss gesture]*
+
+***
+
+**[Scene 13 — Block 3: Timezone Offset Engine]**
+**[Visual Directions]** Screen capture: Open `timezone_service.dart`. Show `DateTime.now().toUtc()` conversion. Overlay a simple diagram: "User Local Time → UTC Conversion → Stored in DB → Converted back for display."
+
+**[Dialogue]**
+
+> "Block teen — Timezone Engine. Ye thoda dimaag lagaane wala part hai, so dhyan se suno."
+
+> "Jab user lesson complete karta hai, hum `DateTime.now().toUtc()` call karte hain. Matlab — jo bhi local time hai, use UTC mein convert karo. Store karo. Ab jab streak validate karna ho, hum server UTC time lete hain, user ka timezone offset add karte hain, aur check karte hain — kya aaj ka din cover hua ya nahi."
+
+> "Simple analogy: Soch ki tere paas ek diary hai. Tu diary mein hamesha GMT time likhta hai. Par read karte waqt, tu apna local timezone add karta hai. Diary universal hai, reading personal hai. Exactly yahi ye engine karta hai."
+
+***
+
+**[Scene 14 — Block 4: Streak Validation Loop]**
+**[Visual Directions]** Screen capture: Show `streak_validator.dart`. Highlight the main function. Callout boxes on: yesterday's date check, today's date check, consecutive day logic, reset condition.
+
+**[Dialogue]**
+
+> "Ab sabse important block — Streak Validation Loop. Ye wo logic hai jo decide karta hai — streak badhegi, same rahegi, ya ZERO ho jaayegi."
+
+> "Logic simple hai: Agar user ne aaj koi activity complete ki — streak plus one. Agar kal kiya tha aaj nahi — check karo, `streakFreezeCount` greater than zero hai? Haan? Ek freeze consume karo, streak bachao. Nahi? Streak reset to zero."
+
+*[dramatic pause]*
+
+> "ZERO. Poori history. Gone. Ek raat mein. Aur yahi woh moment hai jab user soochta hai — '₹99 toh kuch nahi hai yaar.' Aur Duolingo hassi rokte rokte bank statement dekh raha hota hai."
+
+***
+
+**[Scene 15 — Streak Freeze & Monetization]**
+**[Visual Directions]** Screen capture: Show the `streak_freeze_purchase_screen.dart` UI. Then split screen — left: the code's `streakFreezeCount--` line, right: a mock payment screen showing ₹99. Add a "GENIUS 🤯" text overlay.
+
+**[Dialogue]**
+
+> "Ye dekho — streak freeze purchase screen. User paisa deta hai, `streakFreezeCount` increment ho jaata hai. Bas itna hi. Ek integer ko plus one karna — aur Duolingo ka Q3 revenue report analysts ko surprise karta hai."
+
+> "Ye sirf Duolingo nahi karta. Snapchat Streaks, Habitica, BeReal — sab isi principle pe run karte hain. Loss aversion plus micro-transaction equals retention machine. Aur ab tum is machine ki blueprint jaante ho."
+
+***
+
+**[Scene 16 — UI & Fire Animation]**
+**[Visual Directions]** Screen capture: Open `streak_display_widget.dart`. Show `Lottie.asset('assets/fire.json')` call. Play the Lottie fire animation on emulator briefly.
+
+**[Dialogue]**
+
+> "Ek bonus block — UI aur animation. Hum `Lottie` package use kar rahe hain fire animation ke liye. Lottie kya hai? Adobe After Effects animation ka Flutter-ready version. Designer ne JSON export kiya, developer ne load kiya — done."
+
+> "Ye fire animation sirf decoration nahi hai. Ye ek psychological reward hai. Har baar jab streak badhti hai aur flame jalti hai, user ko ek micro-dopamine hit milta hai. Ye gamification ka soul hai — feedback loop jo feel karvaye: 'Main jeet raha hoon.'"
+
+***
+
+## SEGMENT 4: THE TEST RUN & CALL TO ACTION (7:30 – 9:00+)
+
+***
+
+**[Scene 17 — Live Demo]**
+**[Visual Directions]** Screen capture: Android emulator running the app in full dark mode. Streak shows "6 🔥". Creator's cursor hovers over "Complete Today's Task" button. Slow zoom. Tension music.
+
+**[Dialogue]**
+
+> "Theek hai dosto. Moment of truth. Dekho — streak 6 pe hai. Main 'Complete Task' button hit karta hoon aur hum real time mein dekhte hain kya hota hai."
+
+*[clicks button]*
+
+> "DEKHO! Streak 7 ho gayi. Fire animation trigger hua. Database mein UTC timestamp update ho gayi. Local cache sync ho gayi. Sab kuch ek button click mein."
+
+***
+
+**[Scene 18 — Freeze Demo]**
+**[Visual Directions]** Screen capture: Manually change the last activity date in local storage to two days ago (developer mode). Restart app. Show streak at risk. Click "Use Streak Freeze." Streak survives. Creator reacts.
+
+**[Dialogue]**
+
+> "Ab ek aur demo. Maine last activity date two days peeche kar di — simulate kar raha hoon ki user ek din miss kar gaya. App khola. Dekho — streak danger zone mein hai. Ab 'Use Streak Freeze' press karta hoon."
+
+*[clicks]*
+
+> "Streak bachi! `streakFreezeCount` ek se zero ho gayi. Aur user ko feel hua ki usne kuch haasil kiya. Yaar, ye emotional engineering hai. Masterclass."
+
+***
+
+**[Scene 19 — GitHub CTA]**
+**[Visual Directions]** Screen capture: GitHub repository page. Show folder structure, README, and a prominent "⭐ Star this repo" button. Creator's face in corner, pointing down (toward pinned comment).
+
+**[Dialogue]**
+
+> "Poora production-ready boilerplate code is video ke description mein pinned hai — GitHub link. Usmein sab kuch hai: complete Flutter project, Hive local cache setup, Timezone service, Lottie animations, aur streak freeze logic."
+
+> "Ek kaam karo — repo star karo. Ye mujhe batata hai ki tum log actually build kar rahe ho. Aur agar tumne koi cool feature add kiya — streak leaderboard, social sharing, custom notifications — pull request karo. Best PR wale ka naam main agle video mein mention karunga. Real shoutout. Promise."
+
+***
+
+**[Scene 20 — The Outro]**
+**[Visual Directions]** A-roll: Creator back on camera, now in slightly brighter lighting. Duolingo owl plushie (or printed image) placed beside them. Creator picks it up, looks at it, then back at camera.
+
+**[Dialogue]**
+
+> "Toh dosto, aaj humne seekha — Duolingo ka streak system sirf ek feature nahi hai. Ye ek carefully engineered psychological trap hai jo loss aversion, timezone-aware backend, local caching, aur micro-transactions ko ek seamless loop mein bind karta hai."
+
+> "Aur ab tum ye loop khud build kar sakte ho. Apni app mein. Apne users ke liye."
+
+*[holds up the owl, whispers to it]*
+
+> "Tera secret ab out ho gaya, Duo. Sorry nahi hoon."
+
+*[puts it down, faces camera]*
+
+> "Subscribe button dekh raha hai? Agar tumne subscribe nahi kiya... toh ye owl — raat ko — tumhare sapno mein aayega. Aur wo poochega — 'Aaj ka lesson kiya?' Aur tum jaante ho — wo wait karega."
+
+*[long dramatic pause, then smiles]*
+
+> "Subscribe karo. Safe raho. Aur milte hain next video mein — jab hum kuch aur tod denge. Peace. ✌️"
+
+*[Outro music fades in — upbeat lo-fi]*
+
+***
+
+**[End Card Visual]**
+**[Visual Directions]** Standard YouTube end card: Two video suggestions, Subscribe button animation, GitHub link on screen for 10 seconds. Duo owl meme GIF plays in corner with caption: *"Don't forget your lesson tomorrow 👁️👁️"*
+
+***
+
+## 📋 Script Production Notes
+
+- **Total estimated runtime:** 8.5–10 minutes at a natural speaking pace
+- **B-roll needed:** Duolingo app footage, Reddit post screenshots, Whiteboard animations (can use Canva/Figma for motion), Emulator recordings
+- **Music cues:** Dramatic sting (0:00), Sad violin (streak reset scene), Lo-fi beats (code walkthrough), Tension build (demo section), Upbeat outro
+- **Graphics to prepare:** UTC timezone diagram, Architecture block diagram (3 boxes + arrows), Split-screen monetization graphic
+- **Thumbnail suggestion:** Creator with shocked face, Duo owl with red eyes, streak counter going from 365 → 0, text: *"The Owl Knows"*
+
+Tags etc:
+Since you're already building a serious YouTube presence with a focus on viral hooks, psychologically compelling thumbnails, and tech-business storytelling, here's the complete YouTube metadata package — optimized for your channel's style.
+
+***
+
+# 📦 Complete YouTube Metadata Package
+### "How Duolingo Hooks Millions: Building Their Gamified Streak System"
+
+***
+
+## 📝 Video Description
+
+```
+🦉 Duolingo ke green owl ka dark secret finally expose ho gaya...
+
+Ye innocent sa app actually ek multi-billion dollar psychological retention machine hai. Aur aaj hum uski exact streak system ko Flutter mein build kar rahe hain — loss aversion, timezone engine, streak freeze logic, aur fire animations — sab kuch.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔥 IS VIDEO MEIN KYA MILEGA:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+00:00 – The Hook: Green Owl ka evil plan
+01:30 – Loss Aversion Psychology (why people skip jobs for streaks)
+03:30 – Architecture: Local Cache, UTC Timezone Engine, DB Schema
+05:30 – Streak Freeze Logic (the ₹99 micro-transaction secret)
+06:30 – Fire Animation with Lottie
+07:30 – Live Demo on Android Emulator
+08:30 – GitHub Code + Outro Warning 🦉
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📂 PRODUCTION-READY GITHUB CODE (FREE):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⭐ GitHub Repo → [YOUR GITHUB LINK HERE]
+Complete Flutter boilerplate with:
+  ✅ Hive local cache setup
+  ✅ UTC Timezone-aware streak validator
+  ✅ Streak Freeze logic
+  ✅ Lottie fire animation
+  ✅ Dark mode UI
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔗 RESOURCES MENTIONED:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+→ Flutter Docs: https://flutter.dev/docs
+→ Hive Package: https://pub.dev/packages/hive
+→ Lottie for Flutter: https://pub.dev/packages/lottie
+→ Daniel Kahneman – Thinking, Fast and Slow (Loss Aversion)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📲 CONNECT WITH ME:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+→ Instagram: [YOUR HANDLE]
+→ GitHub: [YOUR GITHUB]
+→ Twitter/X: [YOUR HANDLE]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚠️ WARNING: Subscribe karo warna green owl raat ko sapno
+mein aayega aur poochega "Aaj ka lesson kiya?" 🦉👁️
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#Flutter #Duolingo #AppDevelopment #Gamification #FlutterTutorial
+```
+
+***
+
+## 🏷️ Tags (Copy-Paste Ready)
+
+**Primary Tags (High Volume):**
+```
+flutter tutorial, flutter app development, duolingo clone flutter, gamification app, streak system flutter, flutter hindi tutorial, app development india, flutter 2025
+```
+
+**Secondary Tags (Mid-Tail, High Intent):**
+```
+duolingo streak system, how duolingo works, loss aversion psychology, flutter hive database, flutter lottie animation, flutter dark mode app, flutter timezone, micro transactions app, flutter local storage, flutter shared preferences, streak app flutter
+```
+
+**Long-Tail / Niche Tags (Low Competition, High Conversion):**
+```
+how to build streak system in flutter, duolingo gamification explained, flutter app architecture tutorial hindi, flutter streak counter app, flutter fire animation lottie, how duolingo makes money, build habit tracker flutter, flutter app monetization strategy india, hinglish flutter tutorial
+```
+
+**Channel/Brand Tags:**
+```
+[YOUR CHANNEL NAME], flutter india, flutter hinglish, build apps india, tech business storytelling, flutter for beginners hindi
+```
+
+***
+
+## 🖼️ Thumbnail Text Copy
+
+Three options — pick the one that fits your energy best.
+
+***
+
+### Option A — Fear-Based (Highest CTR for Indian Audience)
+```
+MAIN TEXT (BIG, RED/ORANGE):
+"400 DIN KA STREAK... GONE 💀"
+
+SUB TEXT (WHITE, SMALLER):
+"Duolingo ka dark secret"
+
+BOTTOM BADGE (YELLOW, PILL SHAPE):
+"FREE CODE ↓"
+```
+**Visual:** Your shocked face on left. Duo owl with glowing red eyes on right. Streak counter going 365 → 0 in the middle. Dark background.
+
+***
+
+### Option B — Conspiracy/Secret (Best for Tech Audience)
+```
+MAIN TEXT (BIG, GREEN GLOW EFFECT):
+"DUOLINGO KI EVIL PSYCHOLOGY 🦉"
+
+SUB TEXT (WHITE):
+"Streak System ka Secret Code"
+
+CORNER STAMP (RED):
+"EXPOSED"
+```
+**Visual:** Dual-screen effect — Duolingo app on one side, VS Code on the other. Your face in the center looking conspiratorial. Green particles/matrix effect overlay.
+
+***
+
+### Option C — Value/Build Angle (Best for Developers)
+```
+MAIN TEXT (BOLD, WHITE ON DARK):
+"Maine Duolingo ka Streak System Build Kiya 🔥"
+
+SUB TEXT (YELLOW):
+"Flutter mein • FREE GitHub Code"
+
+BOTTOM LEFT (SMALL):
+"Psychology + Code + Demo"
+```
+**Visual:** Phone mockup showing the dark-mode streak app with fire animation. Your face in top-left corner smiling. "FREE" badge in top-right corner. Clean dark background.
+
+***
+
+## 📊 SEO-Optimized Title Variants
+
+Test these as A/B options (YouTube allows title changes post-upload):
+
+| # | Title Variant | Strategy |
+|---|---|---|
+| 1 | `How Duolingo Hooks Millions: Building Their Gamified Streak System (Flutter)` | Primary — keyword-rich, long-tail |
+| 2 | `Maine Duolingo ka Dark Secret Toda 🦉 Streak System Flutter Mein Build Kiya` | Emotional, Hinglish audience |
+| 3 | `Duolingo Ka ₹99 Wala Evil Trick — Aur Maine Isse Flutter Mein Banaya` | Curiosity + monetization hook |
+| 4 | `The Psychology Behind Duolingo's Streak (And How to Build It in Flutter)` | English SEO — international reach |
+
+***
+
+## 📌 Pinned Comment Template
+
+Pin this as your first comment immediately after uploading:
+
+```
+🔥 FREE GitHub Code is here → [LINK]
+
+Agar ye video helpful lagi toh:
+⭐ Repo star karo (mujhe pata chalega ki tum build kar rahe ho)
+🔔 Subscribe karo (nahi kiya toh owl aayega 🦉)
+💬 Comment mein batao — tumhare app mein streak feature add karoge?
